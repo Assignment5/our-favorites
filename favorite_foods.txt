@@ -1,7 +1,10 @@
-Pizza
-French Fries
-Hot Dogs
-Cheeseburgers
-Kale
-Bojangles
-Jersey Mike's
+Junkfood
+	Pizza
+	French Fries
+	Hot Dogs
+	Cheeseburgers
+Soy boy
+	Kale
+Fast Food Places
+	Bojangles
+	Jersey Mike's
